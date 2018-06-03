@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: handy;
+    src: url(assets\font\HANDYHANDY.ttf);
+}
+
+body {
+    background: #251D2D;
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.5)
+}
